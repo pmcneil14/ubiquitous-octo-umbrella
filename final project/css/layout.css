@@ -1,0 +1,102 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;}
+
+a {
+    text-decoration: none;}
+
+a:visited {
+    text-decoration: none;
+}
+
+img {
+    object-fit: cover;
+}
+
+li {
+    color: #212529;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.navhead {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    height: 60px;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: #212529;
+}
+
+.navleft {
+    padding-top: 17px;
+    float: left;
+    padding-left: 140px;
+    font-size: larger;
+    color: #fff;
+}
+
+.navright {
+    padding-top: 20px;
+    float: right;
+    padding-right: 120px;
+    color: #fff;
+    font-size: medium;
+}
+navb:hover {
+    color: #e9ecef;
+}
+
+.hbox {
+    top: 60px;
+    height: 360px;
+    background-position: 50% 70%;
+}
+
+.hbox2 {
+    top: 60px;
+    height: 360px;
+    width: 100%;
+    background-position: 50% 70%;
+    background-size: 100%;
+}
+
+.hbox3 {
+    top: 60px;
+    height: 360px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.tabcenter {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.resumeleft {
+    top: 800px;
+    padding-right: 71%;
+    padding-left: 5%;
+    padding-bottom: 60px;
+}
+
+.resumebody {
+    top: 420px;
+    padding-left: 30%;
+    background-color: #fff;
+    padding-bottom: 60px;
+    padding-right: 30%;
+}
+
+.resumehead {
+    font-size: medium;
+    font-weight: bold;
+    color: #6c757d;
+}
